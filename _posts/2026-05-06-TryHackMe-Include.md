@@ -4,7 +4,7 @@ date: 2026-05-06 01:00:00 +0100
 categories: [Writeup]
 tags: [LFI, SSRF, Log Poisoning] 
 render_with_liquid: false
-media_subpath: /assets/lib/include/
+media_subpath: /assets/imgs/include/
 image:
   path: 0.png
 ---
